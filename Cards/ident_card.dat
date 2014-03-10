@@ -1,0 +1,59 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+sminputs 1 aEWM1
+
+sminputs 2 Gf
+
+sminputs 3 aS
+
+wolfenstein 1 lamWS
+
+wolfenstein 2 AWS
+
+wolfenstein 3 rhoWS
+
+wolfenstein 4 etaWS
+
+yukawa 4 ymc
+
+yukawa 5 ymb
+
+yukawa 6 ymt
+
+yukawa 11 yme
+
+yukawa 13 ymm
+
+yukawa 15 ymtau
+
+mass 4 MC
+
+mass 6 MT
+
+mass 5 MB
+
+mass 23 MZ
+
+mass 25 MH
+
+mass 11 Me
+
+mass 13 MM
+
+mass 15 MTA
+
+mass 9000006 MP
+
+decay 6 WT
+
+decay 23 WZ
+
+decay 24 WW
+
+decay 25 WH
+
+decay 15 WTau
+
+decay 9000006 WH1

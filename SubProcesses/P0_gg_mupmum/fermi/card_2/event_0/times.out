@@ -1,0 +1,155 @@
+ t before initialisation    0.000000    
+ t start VEGAS loop   5.6982040E-05
+ t before VEGAS   1.6307831E-04
+ Point 1 (start Vegas.f)    1.6593933105468750E-004
+ Point 2 (1st cuda call)     2.921322107315063     
+ Point 3 (constants transferred)     2.922040939331055     
+ constant transfer duration    7.1883201599121094E-004
+ Point 4 (start vegas algorithm)     2.922687053680420     
+ Point 5 (preperation done)     2.931401968002319     
+ Data transfer time    9.5701217651367188E-004
+ Kernel execution time   2.8640985488891602E-002
+ Results transfer time   2.0313262939453125E-004
+ Point 6 (start vegas rest)    2.961208105087280     
+ Point 5 (preperation done)     2.965667009353638     
+ Data transfer time    9.2697143554687500E-004
+ Kernel execution time   2.8227090835571289E-002
+ Results transfer time   1.9693374633789063E-004
+ Point 6 (start vegas rest)    2.995023012161255     
+ Point 5 (preperation done)     2.999469995498657     
+ Data transfer time    8.5997581481933594E-004
+ Kernel execution time   2.8398990631103516E-002
+ Results transfer time   1.8405914306640625E-004
+ Point 6 (start vegas rest)    3.028917074203491     
+ Point 5 (preperation done)     3.033364057540894     
+ Data transfer time    8.6784362792968750E-004
+ Kernel execution time   2.8361082077026367E-002
+ Results transfer time   1.8596649169921875E-004
+ Point 6 (start vegas rest)    3.062783002853394     
+ Point 4 (start vegas algorithm)     3.063947916030884     
+ Point 5 (preperation done)     3.067708969116211     
+ Data transfer time    8.7499618530273438E-004
+ Kernel execution time   2.8466939926147461E-002
+ Results transfer time   1.8405914306640625E-004
+ Point 6 (start vegas rest)    3.097239017486572     
+ Point 5 (preperation done)     3.101691007614136     
+ Data transfer time    8.6307525634765625E-004
+ Kernel execution time   2.8354167938232422E-002
+ Results transfer time   1.8191337585449219E-004
+ Point 6 (start vegas rest)    3.131093978881836     
+ t end VEGAS1    3.131958    
+ total VEGAS duration    3.131795    
+ t endVEGAS loop    3.132466    
+ t start VEGAS loop    3.132472    
+ t before VEGAS    3.132573    
+ Point 1 (start Vegas.f)     3.132575988769531     
+ Point 2 (1st cuda call)     3.132591962814331     
+ Point 3 (constants transferred)     3.133155107498169     
+ constant transfer duration    5.6314468383789063E-004
+ Point 4 (start vegas algorithm)     3.133728981018066     
+ Point 5 (preperation done)     3.140816926956177     
+ Data transfer time    8.8310241699218750E-004
+ Kernel execution time   2.8230905532836914E-002
+ Results transfer time   1.8692016601562500E-004
+ Point 6 (start vegas rest)    3.170121908187866     
+ Point 5 (preperation done)     3.174575090408325     
+ Data transfer time    8.6188316345214844E-004
+ Kernel execution time   2.8368949890136719E-002
+ Results transfer time   1.8596649169921875E-004
+ Point 6 (start vegas rest)    3.203995943069458     
+ Point 5 (preperation done)     3.208438873291016     
+ Data transfer time    8.5401535034179688E-004
+ Kernel execution time   2.8221130371093750E-002
+ Results transfer time   1.8286705017089844E-004
+ Point 6 (start vegas rest)    3.237700939178467     
+ Point 5 (preperation done)     3.242146015167236     
+ Data transfer time    8.6808204650878906E-004
+ Kernel execution time   2.8213977813720703E-002
+ Results transfer time   1.9192695617675781E-004
+ Point 6 (start vegas rest)    3.271425008773804     
+ Point 4 (start vegas algorithm)     3.272578001022339     
+ Point 5 (preperation done)     3.276331901550293     
+ Data transfer time    8.7499618530273438E-004
+ Kernel execution time   2.8368949890136719E-002
+ Results transfer time   1.8620491027832031E-004
+ Point 6 (start vegas rest)    3.305766105651855     
+ Point 5 (preperation done)     3.310211896896362     
+ Data transfer time    8.7904930114746094E-004
+ Kernel execution time   2.8170108795166016E-002
+ Results transfer time   1.8596649169921875E-004
+ Point 6 (start vegas rest)    3.339451074600220     
+ Point 5 (preperation done)     3.343894004821777     
+ Data transfer time    8.7690353393554688E-004
+ Kernel execution time   2.8340101242065430E-002
+ Results transfer time   1.8882751464843750E-004
+ Point 6 (start vegas rest)    3.373308897018433     
+ Point 5 (preperation done)     3.377747058868408     
+ Data transfer time    8.7594985961914063E-004
+ Kernel execution time   2.8390884399414063E-002
+ Results transfer time   1.8215179443359375E-004
+ Point 6 (start vegas rest)    3.407200098037720     
+ Point 5 (preperation done)     3.411648035049438     
+ Data transfer time    8.7404251098632813E-004
+ Kernel execution time   2.8459072113037109E-002
+ Results transfer time   1.8596649169921875E-004
+ Point 6 (start vegas rest)    3.441170930862427     
+ Point 5 (preperation done)     3.445620059967041     
+ Data transfer time    8.6784362792968750E-004
+ Kernel execution time   2.8249025344848633E-002
+ Results transfer time   1.8405914306640625E-004
+ Point 6 (start vegas rest)    3.474925994873047     
+ Point 5 (preperation done)     3.479372024536133     
+ Data transfer time    8.6307525634765625E-004
+ Kernel execution time   2.8465032577514648E-002
+ Results transfer time   1.8596649169921875E-004
+ Point 6 (start vegas rest)    3.508889913558960     
+ Point 5 (preperation done)     3.513335943222046     
+ Data transfer time    8.6808204650878906E-004
+ Kernel execution time   2.8438806533813477E-002
+ Results transfer time   1.8501281738281250E-004
+ Point 6 (start vegas rest)    3.542831897735596     
+ Point 5 (preperation done)     3.547272920608521     
+ Data transfer time    8.7213516235351563E-004
+ Kernel execution time   2.8444766998291016E-002
+ Results transfer time   1.8405914306640625E-004
+ Point 6 (start vegas rest)    3.576777935028076     
+ Point 5 (preperation done)     3.581219911575317     
+ Data transfer time    8.8214874267578125E-004
+ Kernel execution time   2.8314113616943359E-002
+ Results transfer time   1.8501281738281250E-004
+ Point 6 (start vegas rest)    3.610605001449585     
+ Point 5 (preperation done)     3.615041971206665     
+ Data transfer time    8.7213516235351563E-004
+ Kernel execution time   2.8357028961181641E-002
+ Results transfer time   1.8715858459472656E-004
+ Point 6 (start vegas rest)    3.644463062286377     
+ Point 5 (preperation done)     3.648900032043457     
+ Data transfer time    8.6402893066406250E-004
+ Kernel execution time   2.8352022171020508E-002
+ Results transfer time   1.8811225891113281E-004
+ Point 6 (start vegas rest)    3.678308010101318     
+ Point 5 (preperation done)     3.682749032974243     
+ Data transfer time    8.7499618530273438E-004
+ Kernel execution time   2.8383016586303711E-002
+ Results transfer time   1.8191337585449219E-004
+ Point 6 (start vegas rest)    3.712193012237549     
+ Point 5 (preperation done)     3.716634988784790     
+ Data transfer time    8.6808204650878906E-004
+ Kernel execution time   2.7906179428100586E-002
+ Results transfer time   1.8501281738281250E-004
+ Point 6 (start vegas rest)    3.745598077774048     
+ Point 5 (preperation done)     3.750034093856812     
+ Data transfer time    8.8286399841308594E-004
+ Kernel execution time   2.8347969055175781E-002
+ Results transfer time   1.8811225891113281E-004
+ Point 6 (start vegas rest)    3.779457092285156     
+ Point 5 (preperation done)     3.783895969390869     
+ Data transfer time    8.6808204650878906E-004
+ Kernel execution time   2.8407812118530273E-002
+ Results transfer time   1.9216537475585938E-004
+ Point 6 (start vegas rest)    3.813368082046509     
+ t end VEGAS1    3.814240    
+ total VEGAS duration   0.6816671    
+ t endVEGAS loop    3.814246    
+ t  end driver    3.818165    
+ duration    3.818165    
