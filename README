@@ -11,3 +11,12 @@ The PGI compiler is available as a free trial version (http://www.pgroup.com/ind
 Max Nolte
 School of Physics & Astronomy
 The University of Edinburgh
+
+
+Changed/new* files:
+SubProcesses/driver.f
+SubProcesses/makefile
+SubProcesses/vegas.f (moved)
+SubProcesses/madweightcuda.f*
+SubProcesses/dhelascuda.f*
+Source/MadWeight/tools/makefile (vegas removed)
